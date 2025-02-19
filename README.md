@@ -1,3 +1,4 @@
 # Meu Repositório
-# Aprendendo à fazer um novo repositório.
-# Aprendendo à fazer alteração, commitar e enviar os arquivos para a plataforma remota.
+## ♦Aprendendo a fazer alterações e enviar para a plataforma.
+1) Aprendendo à fazer um novo repositório.
+2) Aprendendo à fazer alteração, commitar e enviar os arquivos para a plataforma remota.
